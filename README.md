@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MsGeeO
+- 👋 Hi, I’m Glory
 - 👀 I’m interested in creating new softwares and coding
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on creating new sotfwares
